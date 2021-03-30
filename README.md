@@ -5,6 +5,9 @@
 
 <p>A large thanks to <a href="https://github.com/sparky8512">Sparky8512</a> for providing the kick start to all of this</p>
 
+<h2>Why did I make this?</h2>
+<p>There are so many open source and closed sourced software out there that can leverage JSON formatted data, I figured it would be simpler to run just a web server that would output the data in a format you can use for your own projects</p>
+
 <h2>Prerequisites</h2>
 <p>This requires basic knowledge of dockers and how to launch one. I have tried to make this as foolproof as possible.</p>
 
