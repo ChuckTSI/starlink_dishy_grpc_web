@@ -3,7 +3,7 @@
 
 <p><b style="color: red;">IMPORTANT</b>: This does not pull historical. Simply pulls the the active up to the second information.</p> 
 
-<p>For more information on what Starlink is, see <a href="http://starlink.com">starlink.com and/or the <a href="https://www.reddit.com/r/Starlink/new/">r/Starlink</a> subreddit.</p>
+<p>For more information on what Starlink is, see <a href="http://starlink.com">starlink.com</a> and/or the <a href="https://www.reddit.com/r/Starlink/new/">r/Starlink</a> subreddit.</p>
 
 <p>A large thanks to <a href="https://github.com/sparky8512">Sparky8512</a> for providing the kick start to all of this</p>
 
