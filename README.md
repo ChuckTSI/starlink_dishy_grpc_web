@@ -14,8 +14,7 @@
 <p>This requires basic knowledge of dockers and how to launch one. I have tried to make this as foolproof as possible.</p>
 
 <p><b>You will need to download docker.</b>
-In Linux, use your package manager to download it. (Ex: apt-get install docker) OR (Ex: apk add docker)
-In Windows, please head to <a href="https://www.docker.com/products/docker-desktop" target="docker">the docker webpage</a>, download and install Docker Desktop </p>
+<p>Please follow the docker download page and install Docker. <a href="https://www.docker.com/products/docker-desktop" target="_bank">https://www.docker.com/products/docker-desktop</a></p>
 
 <p>Your network must also allow you to see the dish server. Try visiting <a href="http://192.168.100.1" taget="dishy">this link</a> and you should see similar Starlink App Information.</p>
 
